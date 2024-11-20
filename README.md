@@ -1,1 +1,1 @@
-# Finance-project-RL
+# Stock Forecasting using RL 
